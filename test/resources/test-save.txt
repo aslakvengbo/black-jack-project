@@ -1,0 +1,5 @@
+C8, H12, C3
+H1, D8
+true
+false
+false
